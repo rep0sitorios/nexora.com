@@ -26,10 +26,10 @@ Las animaciones son decorativas. Si JavaScript no está disponible, el contenido
 | Servicios y «Explorar servicios» | Servicios (`#servicios`). |
 | Nosotros | Sobre Nexora (`#nosotros`). |
 | Contacto en la navegación y en el pie | Contacto (`#contacto`). |
-| Botones de WhatsApp | `https://wa.me/nexora_code`. |
+| Botones de WhatsApp | `https://wa.me/message/YUPALZWIMN2SI1`. |
 | Enlaces de correo | Mensaje a `nexoracode6@gmail.com` mediante `mailto:`. |
 
-El enlace de WhatsApp depende de que `@nexora_code` esté activo como nombre de usuario en WhatsApp. La sección de servicios muestra «Próximamente» hasta que se publique su contenido.
+El enlace directo fue generado por WhatsApp Business y no depende de que `@nexora_code` esté activo como nombre de usuario. La sección de servicios muestra «Próximamente» hasta que se publique su contenido.
 
 ## Actualización rápida
 
